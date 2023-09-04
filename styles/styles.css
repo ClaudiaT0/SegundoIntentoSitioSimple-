@@ -1,0 +1,9 @@
+body{
+    height: 100vh;
+    align-items: center;
+
+    background-color: rgb(197, 159, 64);
+}
+h1{
+    color: #6A443C;
+}
